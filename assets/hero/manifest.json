@@ -1,0 +1,9 @@
+{
+  "anchor": [0.5, 0.97],
+  "states": {
+    "idle": { "cols": 2, "fps": 2 },
+    "walk": { "cols": 4, "fps": 8 },
+    "attack": { "cols": 4, "fps": 12, "hitFrame": 2 },
+    "hurt": { "cols": 2, "fps": 8 }
+  }
+}
