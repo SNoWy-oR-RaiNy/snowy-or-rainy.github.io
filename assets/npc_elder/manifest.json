@@ -9,15 +9,6 @@
       "cols": 4,
       "fps": 8,
       "rows": 5
-    },
-    "attack": {
-      "cols": 4,
-      "fps": 13,
-      "hitFrame": 2
-    },
-    "hurt": {
-      "cols": 4,
-      "fps": 16
     }
   },
   "anchor": [
